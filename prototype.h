@@ -5,4 +5,5 @@
 
 void prototype_example(int arg1);
 
+extern int somenumber;
 #endif
